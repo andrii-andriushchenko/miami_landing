@@ -1,5 +1,15 @@
-MyBiKE landing page
+**MyBiKE**
+
+Here is `MyBiKE landing page`.
+
+The following technologies were used:
+- HTML;
+- CSS;
+- SASS;
+- JavaScript;
+
+You can check it by:
 
 [DEMO LINK](https://andrii-andriushchenko.github.io/mybike_landing/)
 
-Here is Miami landing page implemetation using HTML, CSS, SASS and some JS items
+Have a good day! :)
