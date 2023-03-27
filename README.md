@@ -1,4 +1,4 @@
-#MyBike Landing Page
+# MyBike Landing Page
 
 This is a landing page for MyBike. The landing page is built using HTML, SCSS, and JavaScript, and is designed to be responsive and accessible on a wide range of devices.
 
